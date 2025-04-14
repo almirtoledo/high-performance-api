@@ -1,0 +1,7 @@
+{
+  "name": "high-performance-api",
+  "version": "1.0.0",
+  "author": "Almir Toledo <deendsstudios@gmail.com>",
+  "main": "dist/main.js",
+  "license": "MIT"
+}
